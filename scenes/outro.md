@@ -6,6 +6,6 @@
 # Description
 You have completed the daily leadership dilemmas.
 
-Click ‘SUBMIT’ and you see the suggested learning resources based on your answers. 
+Click ‘SUBMIT’ and you'll get feedback on your choices. 
 
 
