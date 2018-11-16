@@ -5,279 +5,146 @@
  - Review Feedback: true
 
 # Variables
-- yourself-new: 1
-- yourself-seekunderstanding-new: 1
-- yourself-seekunderstanding-new-1: 1
-- yourself-seekunderstanding-new-1_1: 1
-- yourself-seekunderstanding-new-1_2: 1
-- yourself-seekunderstanding-new-1_3: 1
-- yourself-seekunderstanding-new-1_4: 1
-- yourself-seekunderstanding-new-2: 1
-- yourself-seekunderstanding-new-2_1: 1
-- yourself-seekunderstanding-new-2_2: 1
-- yourself-seekunderstanding-new-3: 1
-- yourself-seekunderstanding-new-3_1: 1
-- yourself-seekunderstanding-new-3_2: 1
-- yourself-seekunderstanding-new-3_3: 1
-- yourself-seekunderstanding-new-4: 1
-- yourself-seekunderstanding-new-4_1: 1
-- yourself-seekunderstanding-new-4_2: 1
-- bringoutthebest-new: 1
-- bringoutthebest-buildteams-new: 1
-- bringoutthebest-buildteams-new-1: 1
-- bringoutthebest-buildteams-new-1_1: 1
-- bringoutthebest-buildteams-new-1_2: 1
-- bringoutthebest-buildteams-new-1_3: 1
-- bringoutthebest-buildteams-new-1_4: 1
-- bringoutthebest-buildteams-new-1_5: 1
-- bringoutthebest-buildteams-new-2: 1
-- bringoutthebest-buildteams-new-2_1: 1
-- bringoutthebest-buildteams-new-2_2: 1
-- bringoutthebest-buildteams-new-2_3: 1
-- bringoutthebest-buildteams-new-2_4: 1
-- bringoutthebest-buildteams-new-3: 1
-- bringoutthebest-buildteams-new-3_1: 1
-- bringoutthebest-buildteams-new-3_2: 1
-- bringoutthebest-buildteams-new-3_3: 1
-- bringoutthebest-buildteams-new-4: 1
-- bringoutthebest-buildteams-new-4_1: 1
-- bringoutthebest-buildteams-new-4_2: 1
-- bringoutthebest-buildteams-new-4_3: 1
-- bringoutthebest-buildteams-new-4_4: 1
-- bringoutthebest-accelerate-new: 1
-- bringoutthebest-accelerate-new-1: 1
-- bringoutthebest-accelerate-new-1_1: 1
-- bringoutthebest-accelerate-new-1_2: 1
-- bringoutthebest-accelerate-new-1_3: 1
-- bringoutthebest-accelerate-new-1_4: 1
-- bringoutthebest-accelerate-new-2: 1
-- bringoutthebest-accelerate-new-2_1: 1
-- bringoutthebest-accelerate-new-2_2: 1
-- bringoutthebest-accelerate-new-3: 1
-- bringoutthebest-accelerate-new-3_1: 1
-- bringoutthebest-accelerate-new-3_2: 1
-- bringoutthebest-accelerate-new-3_3: 1
-- bringoutthebest-accelerate-new-4: 1
-- bringoutthebest-accelerate-new-4_1: 1
-- bringoutthebest-accelerate-new-4_2: 1
-- rolemodel-new: 1
-- rolemodel-setdirection-new: 1
-- rolemodel-setdirection-new-1: 1
-- rolemodel-setdirection-new-1_1: 1
-- rolemodel-setdirection-new-1_2: 1
-- rolemodel-setdirection-new-1_3: 1
-- rolemodel-setdirection-new-2: 1
-- rolemodel-setdirection-new-2_1: 1
-- rolemodel-setdirection-new-2_2: 1
-- rolemodel-setdirection-new-3: 1
-- rolemodel-setdirection-new-3_1: 1
-- rolemodel-setdirection-new-3_2: 1
-- rolemodel-setdirection-new-3_3: 1
-- rolemodel-setdirection-new-3_4: 1
-- rolemodel-setdirection-new-4: 1
-- rolemodel-setdirection-new-4_1: 1
-- rolemodel-setdirection-new-4_2: 1
-- rolemodel-setdirection-new-4_3: 1
-- rolemodel-driveoutcome-new: 1
-- rolemodel-driveoutcome-new-1: 1
-- rolemodel-driveoutcome-new-1_1: 1
-- rolemodel-driveoutcome-new-1_2: 1
-- rolemodel-driveoutcome-new-1_3: 1
-- rolemodel-driveoutcome-new-1_4: 1
-- rolemodel-driveoutcome-new-2: 1
-- rolemodel-driveoutcome-new-2_1: 1
-- rolemodel-driveoutcome-new-2_2: 1
-- rolemodel-driveoutcome-new-3: 1
-- rolemodel-driveoutcome-new-3_1: 1
-- rolemodel-driveoutcome-new-3_2: 1
-- rolemodel-driveoutcome-new-3_3: 1
-- rolemodel-driveoutcome-new-4: 1
-- rolemodel-driveoutcome-new-4_1: 1
-- rolemodel-driveoutcome-new-4_2: 1
-- rolemodel-driveoutcome-new-4_3: 1
+- ambiguity-q1: 1
+- ambiguity-q2: 1
+- ambiguity-q3: 1
+- ambiguity-q4: 1
+- instill-trust-q1: 1
+- instill-trust-q2: 1
+- instill-trust-q3: 1
+- self-developer-q1: 1
+- self-developer-q2: 1
+- self-developer-q3: 1
+- collaborate-q1: 1
+- collaborate-q2: 1
+- collaborate-q3: 1
+- communicates-q1: 1
+- communicates-q2: 1
+- communicates-q3: 1
+- communicates-q4: 1
+- team-builder-q1: 1
+- team-builder-q2: 1
+- team-builder-q3: 1
+- team-builder-q4: 1
+- talent-attractor-q1: 1
+- talent-attractor-q2: 1
+- talent-attractor-q3: 1
+- coach-q1: 1
+- coach-q2: 1
+- coach-q3: 1
+- accountable-q1: 1
+- accountable-q2: 1
+- accountable-q3: 1
+- value-creating-q1: 1
+- value-creating-q2: 1
+- value-creating-q3: 1
+- results-q1: 1
+- results-q2: 1
+- results-q3: 1
+- results-q4: 1
+- strategic-q1: 1
+- strategic-q2: 1
+- strategic-q3: 1
+- customer-driven-q1: 1
+- customer-driven-q2: 1
+- customer-driven-q3: 1
+- drive-vision-q1: 1
+- drive-vision-q2: 1
+- drive-vision-q3: 1
 
 
 # Exports
-- yourself-new: per-page
-- yourself-seekunderstanding-new: per-page
-- yourself-seekunderstanding-new-1: per-page
-- yourself-seekunderstanding-new-1_1: per-page
-- yourself-seekunderstanding-new-1_2: per-page
-- yourself-seekunderstanding-new-1_3: per-page
-- yourself-seekunderstanding-new-1_4: per-page
-- yourself-seekunderstanding-new-2: per-page
-- yourself-seekunderstanding-new-2_1: per-page
-- yourself-seekunderstanding-new-2_2: per-page
-- yourself-seekunderstanding-new-3: per-page
-- yourself-seekunderstanding-new-3_1: per-page
-- yourself-seekunderstanding-new-3_2: per-page
-- yourself-seekunderstanding-new-3_3: per-page
-- yourself-seekunderstanding-new-4: per-page
-- yourself-seekunderstanding-new-4_1: per-page
-- yourself-seekunderstanding-new-4_2: per-page
-- bringoutthebest-new: per-page
-- bringoutthebest-buildteams-new: per-page
-- bringoutthebest-buildteams-new-1: per-page
-- bringoutthebest-buildteams-new-1_1: per-page
-- bringoutthebest-buildteams-new-1_2: per-page
-- bringoutthebest-buildteams-new-1_3: per-page
-- bringoutthebest-buildteams-new-1_4: per-page
-- bringoutthebest-buildteams-new-1_5: per-page
-- bringoutthebest-buildteams-new-2: per-page
-- bringoutthebest-buildteams-new-2_1: per-page
-- bringoutthebest-buildteams-new-2_2: per-page
-- bringoutthebest-buildteams-new-2_3: per-page
-- bringoutthebest-buildteams-new-2_4: per-page
-- bringoutthebest-buildteams-new-3: per-page
-- bringoutthebest-buildteams-new-3_1: per-page
-- bringoutthebest-buildteams-new-3_2: per-page
-- bringoutthebest-buildteams-new-3_3: per-page
-- bringoutthebest-buildteams-new-4: per-page
-- bringoutthebest-buildteams-new-4_1: per-page
-- bringoutthebest-buildteams-new-4_2: per-page
-- bringoutthebest-buildteams-new-4_3: per-page
-- bringoutthebest-buildteams-new-4_4: per-page
-- bringoutthebest-accelerate-new: per-page
-- bringoutthebest-accelerate-new-1: per-page
-- bringoutthebest-accelerate-new-1_1: per-page
-- bringoutthebest-accelerate-new-1_2: per-page
-- bringoutthebest-accelerate-new-1_3: per-page
-- bringoutthebest-accelerate-new-1_4: per-page
-- bringoutthebest-accelerate-new-2: per-page
-- bringoutthebest-accelerate-new-2_1: per-page
-- bringoutthebest-accelerate-new-2_2: per-page
-- bringoutthebest-accelerate-new-3: per-page
-- bringoutthebest-accelerate-new-3_1: per-page
-- bringoutthebest-accelerate-new-3_2: per-page
-- bringoutthebest-accelerate-new-3_3: per-page
-- bringoutthebest-accelerate-new-4: per-page
-- bringoutthebest-accelerate-new-4_1: per-page
-- bringoutthebest-accelerate-new-4_2: per-page
-- rolemodel-new: per-page
-- rolemodel-setdirection-new: per-page
-- rolemodel-setdirection-new-1: per-page
-- rolemodel-setdirection-new-1_1: per-page
-- rolemodel-setdirection-new-1_2: per-page
-- rolemodel-setdirection-new-1_3: per-page
-- rolemodel-setdirection-new-2: per-page
-- rolemodel-setdirection-new-2_1: per-page
-- rolemodel-setdirection-new-2_2: per-page
-- rolemodel-setdirection-new-3: per-page
-- rolemodel-setdirection-new-3_1: per-page
-- rolemodel-setdirection-new-3_2: per-page
-- rolemodel-setdirection-new-3_3: per-page
-- rolemodel-setdirection-new-3_4: per-page
-- rolemodel-setdirection-new-4: per-page
-- rolemodel-setdirection-new-4_1: per-page
-- rolemodel-setdirection-new-4_2: per-page
-- rolemodel-setdirection-new-4_3: per-page
-- rolemodel-driveoutcome-new: per-page
-- rolemodel-driveoutcome-new-1: per-page
-- rolemodel-driveoutcome-new-1_1: per-page
-- rolemodel-driveoutcome-new-1_2: per-page
-- rolemodel-driveoutcome-new-1_3: per-page
-- rolemodel-driveoutcome-new-1_4: per-page
-- rolemodel-driveoutcome-new-2: per-page
-- rolemodel-driveoutcome-new-2_1: per-page
-- rolemodel-driveoutcome-new-2_2: per-page
-- rolemodel-driveoutcome-new-3: per-page
-- rolemodel-driveoutcome-new-3_1: per-page
-- rolemodel-driveoutcome-new-3_2: per-page
-- rolemodel-driveoutcome-new-3_3: per-page
-- rolemodel-driveoutcome-new-4: per-page
-- rolemodel-driveoutcome-new-4_1: per-page
-- rolemodel-driveoutcome-new-4_2: per-page
-- rolemodel-driveoutcome-new-4_3: per-page
+- ambiguity-q1: per page
+- ambiguity-q2: per page
+- ambiguity-q3: per page
+- ambiguity-q4: per page
+- instill-trust-q1: per page
+- instill-trust-q2: per page
+- instill-trust-q3: per page
+- self-developer-q1: per page
+- self-developer-q2: per page
+- self-developer-q3: per page
+- collaborate-q1: per page
+- collaborate-q2: per page
+- collaborate-q3: per page
+- communicates-q1: per page
+- communicates-q2: per page
+- communicates-q3: per page
+- communicates-q4: per page
+- team-builder-q1: per page
+- team-builder-q2: per page
+- team-builder-q3: per page
+- team-builder-q4: per page
+- talent-attractor-q1: per page
+- talent-attractor-q2: per page
+- talent-attractor-q3: per page
+- coach-q1: per page
+- coach-q2: per page
+- coach-q3: per page
+- accountable-q1: per page
+- accountable-q2: per page
+- accountable-q3: per page
+- value-creating-q1: per page
+- value-creating-q2: per page
+- value-creating-q3: per page
+- results-q1: per page
+- results-q2: per page
+- results-q3: per page
+- results-q4: per page
+- strategic-q1: per page
+- strategic-q2: per page
+- strategic-q3: per page
+- customer-driven-q1: per page
+- customer-driven-q2: per page
+- customer-driven-q3: per page
+- drive-vision-q1: per page
+- drive-vision-q2: per page
+- drive-vision-q3: per page
 
 # Visible
-
-- yourself-new: false
-- yourself-seekunderstanding-new: false
-- yourself-seekunderstanding-new-1: false
-- yourself-seekunderstanding-new-1_1: false
-- yourself-seekunderstanding-new-1_2: false
-- yourself-seekunderstanding-new-1_3: false
-- yourself-seekunderstanding-new-1_4: false
-- yourself-seekunderstanding-new-2: false
-- yourself-seekunderstanding-new-2_1: false
-- yourself-seekunderstanding-new-2_2: false
-- yourself-seekunderstanding-new-3: false
-- yourself-seekunderstanding-new-3_1: false
-- yourself-seekunderstanding-new-3_2: false
-- yourself-seekunderstanding-new-3_3: false
-- yourself-seekunderstanding-new-4: false
-- yourself-seekunderstanding-new-4_1: false
-- yourself-seekunderstanding-new-4_2: false
-- bringoutthebest-new: false
-- bringoutthebest-buildteams-new: false
-- bringoutthebest-buildteams-new-1: false
-- bringoutthebest-buildteams-new-1_1: false
-- bringoutthebest-buildteams-new-1_2: false
-- bringoutthebest-buildteams-new-1_3: false
-- bringoutthebest-buildteams-new-1_4: false
-- bringoutthebest-buildteams-new-1_5: false
-- bringoutthebest-buildteams-new-2: false
-- bringoutthebest-buildteams-new-2_1: false
-- bringoutthebest-buildteams-new-2_2: false
-- bringoutthebest-buildteams-new-2_3: false
-- bringoutthebest-buildteams-new-2_4: false
-- bringoutthebest-buildteams-new-3: false
-- bringoutthebest-buildteams-new-3_1: false
-- bringoutthebest-buildteams-new-3_2: false
-- bringoutthebest-buildteams-new-3_3: false
-- bringoutthebest-buildteams-new-4: false
-- bringoutthebest-buildteams-new-4_1: false
-- bringoutthebest-buildteams-new-4_2: false
-- bringoutthebest-buildteams-new-4_3: false
-- bringoutthebest-buildteams-new-4_4: false
-- bringoutthebest-accelerate-new: false
-- bringoutthebest-accelerate-new-1: false
-- bringoutthebest-accelerate-new-1_1: false
-- bringoutthebest-accelerate-new-1_2: false
-- bringoutthebest-accelerate-new-1_3: false
-- bringoutthebest-accelerate-new-1_4: false
-- bringoutthebest-accelerate-new-2: false
-- bringoutthebest-accelerate-new-2_1: false
-- bringoutthebest-accelerate-new-2_2: false
-- bringoutthebest-accelerate-new-3: false
-- bringoutthebest-accelerate-new-3_1: false
-- bringoutthebest-accelerate-new-3_2: false
-- bringoutthebest-accelerate-new-3_3: false
-- bringoutthebest-accelerate-new-4: false
-- bringoutthebest-accelerate-new-4_1: false
-- bringoutthebest-accelerate-new-4_2: false
-- rolemodel-new: false
-- rolemodel-setdirection-new: false
-- rolemodel-setdirection-new-1: false
-- rolemodel-setdirection-new-1_1: false
-- rolemodel-setdirection-new-1_2: false
-- rolemodel-setdirection-new-1_3: false
-- rolemodel-setdirection-new-2: false
-- rolemodel-setdirection-new-2_1: false
-- rolemodel-setdirection-new-2_2: false
-- rolemodel-setdirection-new-3: false
-- rolemodel-setdirection-new-3_1: false
-- rolemodel-setdirection-new-3_2: false
-- rolemodel-setdirection-new-3_3: false
-- rolemodel-setdirection-new-3_4: false
-- rolemodel-setdirection-new-4: false
-- rolemodel-setdirection-new-4_1: false
-- rolemodel-setdirection-new-4_2: false
-- rolemodel-setdirection-new-4_3: false
-- rolemodel-driveoutcome-new: false
-- rolemodel-driveoutcome-new-1: false
-- rolemodel-driveoutcome-new-1_1: false
-- rolemodel-driveoutcome-new-1_2: false
-- rolemodel-driveoutcome-new-1_3: false
-- rolemodel-driveoutcome-new-1_4: false
-- rolemodel-driveoutcome-new-2: false
-- rolemodel-driveoutcome-new-2_1: false
-- rolemodel-driveoutcome-new-2_2: false
-- rolemodel-driveoutcome-new-3: false
-- rolemodel-driveoutcome-new-3_1: false
-- rolemodel-driveoutcome-new-3_2: false
-- rolemodel-driveoutcome-new-3_3: false
-- rolemodel-driveoutcome-new-4: false
-- rolemodel-driveoutcome-new-4_1: false
-- rolemodel-driveoutcome-new-4_2: false
-- rolemodel-driveoutcome-new-4_3: false
+- ambiguity-q1: false
+- ambiguity-q2: false
+- ambiguity-q3: false
+- ambiguity-q4: false
+- instill-trust-q1: false
+- instill-trust-q2: false
+- instill-trust-q3: false
+- self-developer-q1: false
+- self-developer-q2: false
+- self-developer-q3: false
+- collaborate-q1: false
+- collaborate-q2: false
+- collaborate-q3: false
+- communicates-q1: false
+- communicates-q2: false
+- communicates-q3: false
+- communicates-q4: false
+- team-builder-q1: false
+- team-builder-q2: false
+- team-builder-q3: false
+- team-builder-q4: false
+- talent-attractor-q1: false
+- talent-attractor-q2: false
+- talent-attractor-q3: false
+- coach-q1: false
+- coach-q2: false
+- coach-q3: false
+- accountable-q1: false
+- accountable-q2: false
+- accountable-q3: false
+- value-creating-q1: false
+- value-creating-q2: false
+- value-creating-q3: false
+- results-q1: false
+- results-q2: false
+- results-q3: false
+- results-q4: false
+- strategic-q1: false
+- strategic-q2: false
+- strategic-q3: false
+- customer-driven-q1: false
+- customer-driven-q2: false
+- customer-driven-q3: false
+- drive-vision-q1: false
+- drive-vision-q2: false
+- drive-vision-q3: false
