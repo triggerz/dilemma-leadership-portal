@@ -23,7 +23,7 @@ How do you respond?
 - self-developer-q1: 0.1
 - coach-q2: 0.1 
 - coach-q1: 0.1 
-- communicate-q4: 0.2
+- communicates-q4: 0.2
 
 # Feedback
 It's great that you're being supportive of Francisca's growth within the organisation, while also keeping the business' goals in mind. However, if you think that Francisca isn't fit for a leadership role you ought to have a conversation with her about her motivation to transition into leadership and be more frank about how you see her potential -or lack of potential - to become a leader. 
@@ -39,7 +39,7 @@ I decide to give Francisca my sincere feedback. I exemplify why I don't think sh
 - self-developer-q1: 0.1
 - coach-q2: 1.0 
 - coach-q1: 0.4 
-- communicate-q4: 0.2
+- communicates-q4: 0.2
 
 # Feedback
 Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Francisca's leadership skills over the next six months you might reduce your team's productivity, as Francisca will not be fully focused on her core tasks. By developing her leadership skills you will have to spend additional resources. 
@@ -59,7 +59,7 @@ Francisca is a valuable team member and I would hate to see her leave. I sit dow
 - self-developer-q1: 0.8
 - coach-q2: 0.1 
 - coach-q1: 0.6 
-- communicate-q4: 0.7
+- communicates-q4: 0.7
 
 
 # Feedback
