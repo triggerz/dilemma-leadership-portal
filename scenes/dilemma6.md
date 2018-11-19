@@ -1,78 +1,81 @@
 # Config
- - Title: Dilemma 6: Problem solving and addressing low quality A3s
- - Image: https://mikkelschou.github.io/demo/leadership_dilemma_6.jpg
+ - Title: Dilemma 6: Handling a disagreement between two team members 
+ - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542367072/Dilemma6_kopi.jpg
  - Next: middleSection
 
 # Description
-Lisa, your GMP coordinator, tells you that the quality of A3s in your team varies drastically, and she thinks it might be because of lack of competencies. 
-To improve the overall quality of A3s, Lisa suggests making the two most skilled team members responsible for driving all future A3 activities. Lisa volunteers to lead this initiative.
+At a recent team meeting, you addressed the handover of recurring tasks in connection to vacation and days off. Up until now you have taken it upon yourself to distribute the tasks, but now you want to delegate this responsibility to your team. At the meeting, the team reached the following agreement: a team member going on vacation, is responsible for handing over his/her recurring tasks to other team members. 
 
-How do you respond?
+On your way to your desk on Thursday morning, you witness a heated discussion between your team members Lilli and John. They are both really upset. Lilli wants John to hand over his recurring tasks before he leaves for vacation tomorrow. John, who wasn't present at the team meeting, says that he doesn't consider that his responsibility. 
+
+They both turn to you, as you enter the office. You have a meeting starting in 5 min. What do you do? 
 
 
 # Choice
-I thank Lisa for making this suggestion and for taking the initiative to improve the quality of our A3s. I encourage her to approach the problem more systematically before she decides on a solution so she makes sure she addresses the root cause of the low quality A3s.
+I tell them that we have to sort this out later today, since I have a meeting waiting. 
+In the afternoon, John, Lilli and I sit down together so we can talk this disagreement through. I start by updating John on our agreement from the team meeting. Then I ask John to explain his version first, before asking Lilli to explain from her point of view. After hearing both sides, I ask John to make sure that his recurring tasks are handed over. 
 
 # Variables
-- bringoutthebest-accelerate-new-1_4: 0.8
-- bringoutthebest-accelerate-new-3_1: 0.8
-- rolemodel-driveoutcome-new-1_3: 0.1
-- rolemodel-driveoutcome-new-3_3: 1
-- rolemodel-driveoutcome-new-4_1: 1
-- rolemodel-driveoutcome-new-4_2: 1
+- ambiguity-q4: 1.0
+- ambiguity-q3: 0.9
+- instill-trust-q3: 0.7
+- self-developer-q1: 1.0
+- collaborate-q2: 1.0
+- communicates-q1: 0.9
+- team-builder-q1: 0.5
  
 
 # Feedback
-Great choice. Your support of Lisa's initiative is very empowering and it's great that you encourage her to solve the problem to root cause in a systematic way. You might also consider coaching her through the problem solving. 
+ It's great that you take time to sit down and mediate the disagreement. This gives you the possibility to sort out the misunderstanding between the two team members. However, this disagreement might be a matter that you should handle right away, since their discussion could evolve from morning to afternoon and make it harder to resolve. 
 
-This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
-
-
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.  
 
 
-
-
-# Choice
-I thank Lisa for the suggestion but tell her that I'm not sure this solution addresses the root cause of the problem. I therefore propose that we meet to discuss the variation in the quality of the A3s more systematically. After that, we can lay out the options for different solutions before we make a final decision.
-
-# Variables
-- bringoutthebest-buildteams-new-1_1: 1
-- bringoutthebest-accelerate-new-1_2: 1
-- bringoutthebest-accelerate-new-1_4: 1
-- bringoutthebest-accelerate-new-2_1: 0.9
-- bringoutthebest-accelerate-new-3_1: 0.9
-- rolemodel-driveoutcome-new-1_3: 0.5
-- rolemodel-driveoutcome-new-3_3: 0.7
-- rolemodel-driveoutcome-new-4_1: 1
-- rolemodel-driveoutcome-new-4_2: 1
-- rolemodel-driveoutcome-new-4_3: 1
-
-# Feedback
-Good choice. You are right to suggest systematic problem solving before committing to a particular solution, and it's great that you're inviting Lisa to be a part of this. As an AM, it's important to be able to coach and delegate work to your employees.
-
-This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
 
 
 
 
 
 # Choice
-I thank Lisa for raising this issue, but tell her that I'm concerned about narrowing down A3 competencies to only two employees. This could limit the rest of the team's development. Instead, I let her know that I'll take an action sticker to the AM performance board with a suggestion of a team-wide A3 re-training. 
+Lilli is right in this situation, so, on the spot I give John a super quick update on the agreement we made at the team meeting, where he wasn't present. I then ask him to hand over his recurring tasks before he leaves for vacation and head off to the meeting. Later I will follow up 1:1 with Lilli to investigate why the discussion ended in such a heated manner.
 
 # Variables
-- bringoutthebest-accelerate-new-1_2: 0.1
-- bringoutthebest-accelerate-new-1_4: 0.1
-- bringoutthebest-accelerate-new-2_1: 0.8
-- rolemodel-driveoutcome-new-1_3: 0.1
-- rolemodel-driveoutcome-new-3_2: 0.1
-- rolemodel-driveoutcome-new-3_3: 0.1
-- rolemodel-driveoutcome-new-4: 0.1
+- ambiguity-q4: 0.4
+- ambiguity-q3: 0.3
+- instill-trust-q3: 1.0
+- self-developer-q1: 0.4
+- collaborate-q2: 0.1
+- communicates-q1: 0.2
+- team-builder-q1: 0.3
+- results-q3: 0.8
+- value-creating-q1: 0.8
+
+# Feedback
+This choice reflects that you are making effective decisions. Yes, Lilli is right, but John wasn't informed. It might be a good idea to investigate why John and Lilli's discussion ended in such a heated manner - not just with Lilli. You may also consider to give John the update in a 1:1 talk instead.
+
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.  
+
+
+
+
+
+# Choice
+I suggest to John that we have a 1:1 talk right away, even though I'll be late for my meeting. I update John on the decision made at the team meeting and ask him to proactively follow up on any team meetings that he is absent from. If everybody had followed the new agreement, this heated discussion wouldn't have happened. 
+
+# Variables
+- ambiguity-q4: 0.8
+- ambiguity-q3: 0.9
+- instill-trust-q3: 1.0
+- self-developer-q1: 0.1
+- collaborate-q2: 0.1
+- communicates-q1: 0.5
+- team-builder-q1: 0.7
 
 
 # Feedback
-Your focus on developing your team's capabilities in the long term is great. However, you should consider doing a systematic problem solving before suggesting doing a team-wide re-training. Perhaps the issue of low quality A3s is not due to lack of competencies and your training efforts would then be a waste. 
+It's good to sit down with John to update him and also doing it right away. His behaviour is based on lack of information, so remember this when you sit down with him. Asking him to proactively follow up on team meetings and hand over tasks are good decisions and ensure timely procedures. 
 
-This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.  
 
 
 

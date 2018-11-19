@@ -1,11 +1,11 @@
 # Config
  - Title: Excellent!
- - Image: https://mikkelschou.github.io/demo/leadership_dilemma_alldone.jpg
+ - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542368671/shutterstock_411972601.jpg
  
 
 # Description
-You have completed the Competency Compass Part I. 
+You have completed the daily leadership dilemmas.
 
-Click ‘SUBMIT’ and you will be directed to the self-evaluation part.
+Click ‘SUBMIT’ and you'll get feedback on your choices. 
 
 
