@@ -1,7 +1,7 @@
 # Config
  - Title: Dilemma 6: Problem solving and addressing low quality A3s
  - Image: https://mikkelschou.github.io/demo/leadership_dilemma_6.jpg
- - Next: dilemma7
+ - Next: middleSection
 
 # Description
 Lisa, your GMP coordinator, tells you that the quality of A3s in your team varies drastically, and she thinks it might be because of lack of competencies. 
