@@ -54,52 +54,52 @@
 
 
 # Exports
-- ambiguity-q1: per page
-- ambiguity-q2: per page
-- ambiguity-q3: per page
-- ambiguity-q4: per page
-- instill-trust-q1: per page
-- instill-trust-q2: per page
-- instill-trust-q3: per page
-- self-developer-q1: per page
-- self-developer-q2: per page
-- self-developer-q3: per page
-- collaborate-q1: per page
-- collaborate-q2: per page
-- collaborate-q3: per page
-- communicates-q1: per page
-- communicates-q2: per page
-- communicates-q3: per page
-- communicates-q4: per page
-- team-builder-q1: per page
-- team-builder-q2: per page
-- team-builder-q3: per page
-- team-builder-q4: per page
-- talent-attractor-q1: per page
-- talent-attractor-q2: per page
-- talent-attractor-q3: per page
-- coach-q1: per page
-- coach-q2: per page
-- coach-q3: per page
-- accountable-q1: per page
-- accountable-q2: per page
-- accountable-q3: per page
-- value-creating-q1: per page
-- value-creating-q2: per page
-- value-creating-q3: per page
-- results-q1: per page
-- results-q2: per page
-- results-q3: per page
-- results-q4: per page
-- strategic-q1: per page
-- strategic-q2: per page
-- strategic-q3: per page
-- customer-driven-q1: per page
-- customer-driven-q2: per page
-- customer-driven-q3: per page
-- drive-vision-q1: per page
-- drive-vision-q2: per page
-- drive-vision-q3: per page
+- ambiguity-q1: per-page
+- ambiguity-q2: per-page
+- ambiguity-q3: per-page
+- ambiguity-q4: per-page
+- instill-trust-q1: per-page
+- instill-trust-q2: per-page
+- instill-trust-q3: per-page
+- self-developer-q1: per-page
+- self-developer-q2: per-page
+- self-developer-q3: per-page
+- collaborate-q1: per-page
+- collaborate-q2: per-page
+- collaborate-q3: per-page
+- communicates-q1: per-page
+- communicates-q2: per-page
+- communicates-q3: per-page
+- communicates-q4: per-page
+- team-builder-q1: per-page
+- team-builder-q2: per-page
+- team-builder-q3: per-page
+- team-builder-q4: per-page
+- talent-attractor-q1: per-page
+- talent-attractor-q2: per-page
+- talent-attractor-q3: per-page
+- coach-q1: per-page
+- coach-q2: per-page
+- coach-q3: per-page
+- accountable-q1: per-page
+- accountable-q2: per-page
+- accountable-q3: per-page
+- value-creating-q1: per-page
+- value-creating-q2: per-page
+- value-creating-q3: per-page
+- results-q1: per-page
+- results-q2: per-page
+- results-q3: per-page
+- results-q4: per-page
+- strategic-q1: per-page
+- strategic-q2: per-page
+- strategic-q3: per-page
+- customer-driven-q1: per-page
+- customer-driven-q2: per-page
+- customer-driven-q3: per-page
+- drive-vision-q1: per-page
+- drive-vision-q2: per-page
+- drive-vision-q3: per-page
 
 # Visible
 - ambiguity-q1: false
