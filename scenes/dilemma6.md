@@ -15,14 +15,6 @@ They both turn to you, as you enter the office. You have a meeting starting in 5
 I tell them that we have to sort this out later today, since I have a meeting waiting. 
 In the afternoon, John, Lilli and I sit down together so we can talk this disagreement through. I start by updating John on our agreement from the team meeting. Then I ask John to explain his version first, before asking Lilli to explain from her point of view. After hearing both sides, I ask John to make sure that his recurring tasks are handed over. 
 
-# Variables
-- ambiguity-q4: 1.0
-- ambiguity-q3: 0.9
-- instill-trust-q3: 0.7
-- self-developer-q1: 1.0
-- collaborate-q2: 1.0
-- communicates-q1: 0.9
-- team-builder-q1: 0.5
  
 
 # Feedback
