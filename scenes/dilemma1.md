@@ -1,5 +1,5 @@
 # Config
- - Title: Dilemma 1: Your specialist wants to apply for a leadership position 
+ - Title: Dilemma: Your specialist wants to apply for a leadership position 
  - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542362878/Dilemma1.jpg
  - Next: middlesection
 
