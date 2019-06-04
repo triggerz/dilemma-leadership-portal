@@ -6,6 +6,6 @@
 # Description
 You have completed the daily leadership dilemmas.
 
-Click ‘SUBMIT’ and you will be directed to the self-evaluation part.
+Click ‘SUBMIT’ to return.
 
 
