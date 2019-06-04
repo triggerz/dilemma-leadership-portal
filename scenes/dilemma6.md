@@ -1,7 +1,7 @@
 # Config
- - Title: Dilemma 6: Handling a disagreement between two team members 
+ - Title: Dilemma 6: Handling a disagreement with your customer
  - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542367072/Dilemma6_kopi.jpg
- - Next: middlesection
+ - Next: dilemma1
 
 # Description
 At a recent team meeting, you addressed the handover of recurring tasks in connection to vacation and days off. Up until now you have taken it upon yourself to distribute the tasks, but now you want to delegate this responsibility to your team. At the meeting, the team reached the following agreement: a team member going on vacation, is responsible for handing over his/her recurring tasks to other team members. 
