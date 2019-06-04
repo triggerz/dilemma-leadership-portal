@@ -1,6 +1,6 @@
 # Config
  - Title: Welcome to daily leadership dilemmas
- - Next: dilemma1
+ - Next: dilemma6
  - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542368350/shutterstock_413800915_kopi.jpg
 
 # Description
