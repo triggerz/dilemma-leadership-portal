@@ -1,5 +1,5 @@
 # Config
- - Title: Dilemma 6: Handling a disagreement with your customer
+ - Title: Dilemma: Handling a disagreement with your customer
  - Image: https://res.cloudinary.com/dertn65o7/image/upload/v1542367072/Dilemma6_kopi.jpg
  - Next: dilemma1
 
